@@ -27,4 +27,13 @@ Naive Bayes had the highest accuracy while Linear SVC had the highest macro-F1. 
 4. Place image class folders H1, H2, H3, H5 and H6 under `defungi/`, beside `code.ipynb`.
 5. Open `code.ipynb` in Jupyter and run in order. The first processing cell creates `defungiPreprocessed/`.
 
+## Dataset acknowledgement
+
+This project uses the DeFungi dataset. Credit belongs to the
+original dataset authors. Dataset details, citation information
+and licence terms are available on the
+[UCI DeFungi page](https://archive.ics.uci.edu/dataset/773/defungi).
+
+The dataset images are not redistributed in this repository.
+
 The sampling multiplier in the notebook is 1 (all images), despite an older comment referring to 60%. No model training was repeated during repository preparation; code-cell syntax was checked. Saved outputs and notebook metadata were cleared for publication. Dataset images and the original report are not included. This repository documents a coursework experiment, not a deployed diagnostic application.
