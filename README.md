@@ -1,6 +1,6 @@
 # Fungal Image Classification
 
-Individual University of Melbourne COMP90049 coursework project by Wenrui Chen, April–June 2025. Compares three classical machine learning classifiers on 9,114 DeFungi microscopy images across five classes.
+I was doing this individual project by during April–June 2025. I compared three classical machine learning classifiers on 9,114 DeFungi microscopy images across five classes.
 
 ## Workflow
 - Batch image preprocessing with Python and OpenCV: resizing to 80 x 80 and gamma adjustment; additional CLAHE contrast enhancement and bilateral filtering for training images.
